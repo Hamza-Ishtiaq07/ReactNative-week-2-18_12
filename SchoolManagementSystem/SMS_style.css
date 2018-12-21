@@ -1,0 +1,73 @@
+body{
+    background-image:  url("backgroungImage.jpg");
+    /* background-color: wheat; */
+    height: 100%; 
+    width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main_heading{
+    text-align: center;
+    margin: 35px 0 -20px 0;
+    color: white;
+}
+.label_text{
+    color: white;
+}
+td{
+    color: black;
+}
+.container{
+    /* background-color: brown; */
+    background-color: white;
+    opacity: 0.4;
+    height: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: auto;
+    height: auto;
+    width: auto;
+}
+.form-container{
+    width: fit-content;
+    background-color: whitesmoke;
+    height: fit-content;
+    /* vertical-align: middle; */
+    /* text-align: center; */
+    /* position: relative; */
+    /* top: 50%; */
+    /* transform: translateY(-50%); */
+    display: contents;
+
+}
+.table-container1{
+   
+    margin: 25px auto;
+    padding: 30px;
+}
+#Btn_next_form{
+    margin: 0px 0 0 120px;
+    /* border-radius: 50%; */
+    /* background-color: red; */
+    position: relative;
+}
+.input_Field{
+    /* margin: 5px 0 0 10px; */
+    margin: 5px 0 0 10px;
+    height: 30px;
+    width: 300px;
+}
+
+.line{
+    width: auto;
+    margin: 0 100px 0 100px;
+}
+.submit_Button{
+    margin: 30px 0 0 100px;
+    border-radius: 0;
+    /* background-color: red; */
+    position: relative;
+    padding: 11px;
+    font-family: monospace;
+}
